@@ -4,9 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#FFFFFF",
+        primary: "#FF8000",
         "wd-white": "#FFFFFF",
         "wd-grey": "#999999",
+        "wd-brand": "#898989",
         "wd-darkgrey": "#2D2D2D",
         "wd-black": "#080808",
       },
